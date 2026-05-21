@@ -1,0 +1,1153 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Inventory>
+    <Name>Аспирин 500 мг</Name>
+    <Quantity>100</Quantity>
+    <Price>2500</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\resized-maxresdefault (1) (1).jpg</ImagePath>
+    <ExpiryDate>2027-06-01T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+  </Inventory>
+  <Inventory>
+    <Name>Парацетамол 500 мг</Name>
+    <Quantity>145</Quantity>
+    <Price>3500</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\resized-Парацетамол 500 мг.jpg</ImagePath>
+    <ExpiryDate>2027-03-15T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+  </Inventory>
+  <Inventory>
+    <Name>Анальгин 500 мг</Name>
+    <Quantity>42</Quantity>
+    <Price>4000</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\resized-wgyti073o09du9beddevalm3s3t8c16c.jpg</ImagePath>
+    <ExpiryDate>2027-05-30T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+    <AgeGroup>Универсальный</AgeGroup>
+    <Prescription>Без рецепта</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Ибупрофен 200 мг</Name>
+    <Quantity>5</Quantity>
+    <Price>7500</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\resized-Ибупрофен 200 мг.jpg</ImagePath>
+    <ExpiryDate>2027-08-10T00:00:00+10:00</ExpiryDate>
+    <Category> Таблетки</Category>
+  </Inventory>
+  <Inventory>
+    <Name>Валидол</Name>
+    <Quantity>5</Quantity>
+    <Price>7500</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\resized-KtNtYWuFcgs.jpg</ImagePath>
+    <ExpiryDate>2026-09-30T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+  </Inventory>
+  <Inventory>
+    <Name>Активированный уголь</Name>
+    <Quantity>70</Quantity>
+    <Price>1500</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\resized-акт уголь.jpg</ImagePath>
+    <ExpiryDate>2026-05-25T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+    <AgeGroup>Универсальный</AgeGroup>
+    <Prescription>Без рецепта</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Йод 5%</Name>
+    <Quantity>45</Quantity>
+    <Price>4500</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\resized-_Йод от грибка ногтей ног.jpg</ImagePath>
+    <ExpiryDate>2026-07-15T00:00:00+10:00</ExpiryDate>
+    <Category>Растворы</Category>
+  </Inventory>
+  <Inventory>
+    <Name>Зеленка</Name>
+    <Quantity>60</Quantity>
+    <Price>5500</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\100024503682b0.jpeg</ImagePath>
+    <ExpiryDate>2027-05-20T00:00:00+10:00</ExpiryDate>
+    <Category>Растворы</Category>
+  </Inventory>
+  <Inventory>
+    <Name>Перекись водорода 3%</Name>
+    <Quantity>45</Quantity>
+    <Price>3200</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\resized-перекись водорода 2%.jpg</ImagePath>
+    <ExpiryDate>2027-02-28T00:00:00+10:00</ExpiryDate>
+    <Category>Растворы</Category>
+  </Inventory>
+  <Inventory>
+    <Name>Спирт этиловый 96%</Name>
+    <Quantity>15</Quantity>
+    <Price>12000</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\resized-flakon-2.jpg</ImagePath>
+    <ExpiryDate>2027-12-01T00:00:00+10:00</ExpiryDate>
+    <Category>Растворы</Category>
+  </Inventory>
+  <Inventory>
+    <Name>Хлоргексидин</Name>
+    <Quantity>30</Quantity>
+    <Price>6800</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\resized-Хлоргексидин.jpg</ImagePath>
+    <ExpiryDate>2027-04-10T00:00:00+10:00</ExpiryDate>
+    <Category>Растворы</Category>
+  </Inventory>
+  <Inventory>
+    <Name>Бинт стерильный 7x14</Name>
+    <Quantity>40</Quantity>
+    <Price>6000</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\resized-D74BD976-B0B5-48DB-8E0C-36A252CF80BF.png</ImagePath>
+    <ExpiryDate>2029-01-01T00:00:00+10:00</ExpiryDate>
+    <Category>Перевязочные</Category>
+  </Inventory>
+  <Inventory>
+    <Name>Пластырь бактерицидный</Name>
+    <Quantity>80</Quantity>
+    <Price>1000</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\resized-пластырь.jpeg</ImagePath>
+    <ExpiryDate>2028-03-15T00:00:00+10:00</ExpiryDate>
+    <Category>Перевязочные</Category>
+  </Inventory>
+  <Inventory>
+    <Name>Анальгин 50% р-р 2мл №10</Name>
+    <Quantity>40</Quantity>
+    <Price>12000</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\resized-Анальгин 50% р-р 2мл №10.jpg</ImagePath>
+    <ExpiryDate>2027-09-15T00:00:00+10:00</ExpiryDate>
+    <Category>Ампулы</Category>
+  </Inventory>
+  <Inventory>
+    <Name>Димедрол 1% 1мл №10</Name>
+    <Quantity>60</Quantity>
+    <Price>8500</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\resized-димедрол.png</ImagePath>
+    <ExpiryDate>2027-05-01T00:00:00+10:00</ExpiryDate>
+    <Category> Ампулы</Category>
+  </Inventory>
+  <Inventory>
+    <Name>Кеторол 30мг 1мл №10</Name>
+    <Quantity>25</Quantity>
+    <Price>25000</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\resized-Кеторол 30мг 1мл №10.jpeg</ImagePath>
+    <ExpiryDate>2027-11-30T00:00:00+10:00</ExpiryDate>
+    <Category>Ампулы</Category>
+  </Inventory>
+  <Inventory>
+    <Name>Нурофен суспензия 100мл</Name>
+    <Quantity>20</Quantity>
+    <Price>35000</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\resized-Нурофен суспензия 100мл.jpg</ImagePath>
+    <ExpiryDate>2027-12-01T00:00:00+10:00</ExpiryDate>
+    <Category>Сиропы</Category>
+    <AgeGroup>Детский (0-12)</AgeGroup>
+    <Prescription>Без рецепта</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Амбробене сироп 100мл</Name>
+    <Quantity>25</Quantity>
+    <Price>28000</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\resized-Амбробене сироп 100мл.jpg</ImagePath>
+    <ExpiryDate>2027-05-15T00:00:00+10:00</ExpiryDate>
+    <Category>Сиропы</Category>
+  </Inventory>
+  <Inventory>
+    <Name>Метформин 1000 мг</Name>
+    <Quantity>60</Quantity>
+    <Price>8500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Метформин 1000 мг.jpeg</ImagePath>
+    <ExpiryDate>2028-06-20T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+    <AgeGroup>Взрослые</AgeGroup>
+    <Prescription>По рецепту</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Глибенкламид 5 мг</Name>
+    <Quantity>45</Quantity>
+    <Price>5500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Глибенкламид 5 мг.png</ImagePath>
+    <ExpiryDate>2027-09-15T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+    <AgeGroup>Пожилые</AgeGroup>
+    <Prescription>По рецепту</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Инсулин Лантус</Name>
+    <Quantity>25</Quantity>
+    <Price>45000.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Инсулин Лантус.jpg</ImagePath>
+    <ExpiryDate>2028-03-10T00:00:00+10:00</ExpiryDate>
+    <Category>Ампулы</Category>
+    <AgeGroup>Взрослые</AgeGroup>
+    <Prescription>По рецепту</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Инсулин Новорапид</Name>
+    <Quantity>30</Quantity>
+    <Price>42000.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Инсулин Новорапид.jpg</ImagePath>
+    <ExpiryDate>2027-08-05T00:00:00+10:00</ExpiryDate>
+    <Category>Ампулы</Category>
+    <AgeGroup>Взрослые</AgeGroup>
+    <Prescription>По рецепту</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Эутирокс 50 мкг</Name>
+    <Quantity>50</Quantity>
+    <Price>8500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Эутирокс 50 мкг.png</ImagePath>
+    <ExpiryDate>2028-11-20T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+    <AgeGroup>Взрослые</AgeGroup>
+    <Prescription>По рецепту</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>L-тироксин 100 мкг</Name>
+    <Quantity>55</Quantity>
+    <Price>6500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\L-тироксин 100 мкг.png</ImagePath>
+    <ExpiryDate>2025-03-01T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+    <AgeGroup>Универсальный</AgeGroup>
+    <Prescription>По рецепту</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Тиамазол 5 мг</Name>
+    <Quantity>35</Quantity>
+    <Price>9500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Тиамазол 5 мг.jpg</ImagePath>
+    <ExpiryDate>2027-07-10T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+    <AgeGroup>Взрослые</AgeGroup>
+    <Prescription>По рецепту</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Преднизолон 5 мг</Name>
+    <Quantity>40</Quantity>
+    <Price>3500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Преднизолон 5 мг.jpg</ImagePath>
+    <ExpiryDate>2027-02-20T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+    <AgeGroup>Взрослые</AgeGroup>
+    <Prescription>По рецепту</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Дексаметазон 0.5 мг</Name>
+    <Quantity>5</Quantity>
+    <Price>4500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Дексаметазон 0.5 мг.jpg</ImagePath>
+    <ExpiryDate>2027-10-15T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+    <AgeGroup>Взрослые</AgeGroup>
+    <Prescription>По рецепту</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Метипред 4 мг</Name>
+    <Quantity>35</Quantity>
+    <Price>8500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Метипред 4 мг.jpg</ImagePath>
+    <ExpiryDate>2028-05-05T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+    <AgeGroup>Взрослые</AgeGroup>
+    <Prescription>По рецепту</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Фуросемид 40 мг</Name>
+    <Quantity>50</Quantity>
+    <Price>2500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Фуросемид 40 мг.png</ImagePath>
+    <ExpiryDate>2027-08-20T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+    <AgeGroup>Пожилые</AgeGroup>
+    <Prescription>По рецепту</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Гипотиазид 25 мг</Name>
+    <Quantity>45</Quantity>
+    <Price>3800.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Гипотиазид 25 мг.png</ImagePath>
+    <ExpiryDate>2027-06-15T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+    <AgeGroup>Пожилые</AgeGroup>
+    <Prescription>По рецепту</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Верошпирон 25 мг</Name>
+    <Quantity>40</Quantity>
+    <Price>5500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Верошпирон 25 мг.png</ImagePath>
+    <ExpiryDate>2028-09-10T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+    <AgeGroup>Взрослые</AgeGroup>
+    <Prescription>По рецепту</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Дигоксин 0.25 мг</Name>
+    <Quantity>30</Quantity>
+    <Price>3500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Дигоксин 0.25 мг.jpg</ImagePath>
+    <ExpiryDate>2027-03-20T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+    <AgeGroup>Пожилые</AgeGroup>
+    <Prescription>По рецепту</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Кордарон 200 мг</Name>
+    <Quantity>25</Quantity>
+    <Price>12500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Кордарон 200 мг.jpg</ImagePath>
+    <ExpiryDate>2028-11-15T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+    <AgeGroup>Взрослые</AgeGroup>
+    <Prescription>По рецепту</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Варфарин 2.5 мг</Name>
+    <Quantity>35</Quantity>
+    <Price>4500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Варфарин 2.5 мг.jpg</ImagePath>
+    <ExpiryDate>2027-05-10T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+    <AgeGroup>Универсальный</AgeGroup>
+    <Prescription>По рецепту</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Ксарелто 20 мг</Name>
+    <Quantity>20</Quantity>
+    <Price>55000.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Ксарелто 20 мг.jpg</ImagePath>
+    <ExpiryDate>2028-08-05T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+    <AgeGroup>Взрослые</AgeGroup>
+    <Prescription>По рецепту</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Эликвис 5 мг</Name>
+    <Quantity>15</Quantity>
+    <Price>48000.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Эликвис 5 мг.jpg</ImagePath>
+    <ExpiryDate>2027-12-20T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+    <AgeGroup>Пожилые</AgeGroup>
+    <Prescription>По рецепту</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Кардиомагнил 75 мг</Name>
+    <Quantity>60</Quantity>
+    <Price>6500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Кардиомагнил 75 мг.png</ImagePath>
+    <ExpiryDate>2028-06-15T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+    <AgeGroup>Пожилые</AgeGroup>
+    <Prescription>Без рецепта</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Тромбо АСС 100 мг</Name>
+    <Quantity>55</Quantity>
+    <Price>4500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Тромбо АСС 100 мг.jpg</ImagePath>
+    <ExpiryDate>2028-10-10T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+    <AgeGroup>Пожилые</AgeGroup>
+    <Prescription>Без рецепта</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Клопидогрел 75 мг</Name>
+    <Quantity>40</Quantity>
+    <Price>8500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Клопидогрел 75 мг.jpg</ImagePath>
+    <ExpiryDate>2027-04-20T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+    <AgeGroup>Пожилые</AgeGroup>
+    <Prescription>По рецепту</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Аторвастатин 20 мг</Name>
+    <Quantity>50</Quantity>
+    <Price>9500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Амитриптилин 25 мг.png</ImagePath>
+    <ExpiryDate>2028-09-15T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+    <AgeGroup>Взрослые</AgeGroup>
+    <Prescription>По рецепту</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Розувастатин 10 мг</Name>
+    <Quantity>45</Quantity>
+    <Price>12500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Розувастатин 10 мг.jpeg</ImagePath>
+    <ExpiryDate>2028-03-10T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+    <AgeGroup>Взрослые</AgeGroup>
+    <Prescription>По рецепту</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Симвастатин 20 мг</Name>
+    <Quantity>55</Quantity>
+    <Price>5500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Симвастатин 20 мг.png</ImagePath>
+    <ExpiryDate>2027-07-20T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+    <AgeGroup>Пожилые</AgeGroup>
+    <Prescription>По рецепту</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Фенофибрат 145 мг</Name>
+    <Quantity>35</Quantity>
+    <Price>8500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Фенофибрат 145 мг.jpg</ImagePath>
+    <ExpiryDate>2027-11-15T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+    <AgeGroup>Взрослые</AgeGroup>
+    <Prescription>По рецепту</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Аллопуринол 100 мг</Name>
+    <Quantity>41</Quantity>
+    <Price>4500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Аллопуринол 100 мг.png</ImagePath>
+    <ExpiryDate>2028-06-10T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+    <AgeGroup>Пожилые</AgeGroup>
+    <Prescription>По рецепту</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Фебуксостат 80 мг</Name>
+    <Quantity>30</Quantity>
+    <Price>15000.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Фебуксостат 80 мг.png</ImagePath>
+    <ExpiryDate>2028-09-05T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+    <AgeGroup>Взрослые</AgeGroup>
+    <Prescription>По рецепту</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Колхицин 0.5 мг</Name>
+    <Quantity>25</Quantity>
+    <Price>8500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Колхицин 0.5 мг.jpg</ImagePath>
+    <ExpiryDate>2028-01-20T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+    <AgeGroup>Взрослые</AgeGroup>
+    <Prescription>По рецепту</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Диклофенак 50 мг</Name>
+    <Quantity>70</Quantity>
+    <Price>3500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Диклофенак 50 мг.jpeg</ImagePath>
+    <ExpiryDate>2027-08-15T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+    <AgeGroup>Взрослые</AgeGroup>
+    <Prescription>По рецепту</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Мелоксикам 15 мг</Name>
+    <Quantity>50</Quantity>
+    <Price>6500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Мелоксикам 15 мг.png</ImagePath>
+    <ExpiryDate>2027-12-10T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+    <AgeGroup>Взрослые</AgeGroup>
+    <Prescription>По рецепту</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Целекоксиб 200 мг</Name>
+    <Quantity>30</Quantity>
+    <Price>12500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Целекоксиб 200 мг.jpg</ImagePath>
+    <ExpiryDate>2028-05-20T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+    <AgeGroup>Взрослые</AgeGroup>
+    <Prescription>По рецепту</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Эторикоксиб 90 мг</Name>
+    <Quantity>25</Quantity>
+    <Price>15000.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Эторикоксиб 90 м.png</ImagePath>
+    <ExpiryDate>2028-03-15T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+    <AgeGroup>Взрослые</AgeGroup>
+    <Prescription>По рецепту</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Миорелаксант 50 мг</Name>
+    <Quantity>40</Quantity>
+    <Price>5500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Миорелаксант 50 мг.png</ImagePath>
+    <ExpiryDate>2027-11-10T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+    <AgeGroup>Взрослые</AgeGroup>
+    <Prescription>По рецепту</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Баклофен 25 мг</Name>
+    <Quantity>35</Quantity>
+    <Price>7500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Баклофен 25 мг.jpg</ImagePath>
+    <ExpiryDate>2027-07-05T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+    <AgeGroup>Взрослые</AgeGroup>
+    <Prescription>По рецепту</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Тизанидин 4 мг</Name>
+    <Quantity>45</Quantity>
+    <Price>4500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Тизанидин 4 мг.jpg</ImagePath>
+    <ExpiryDate>2028-09-20T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+    <AgeGroup>Взрослые</AgeGroup>
+    <Prescription>По рецепту</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Габапентин 300 мг</Name>
+    <Quantity>40</Quantity>
+    <Price>8500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Габапентин 300 мг.jpg</ImagePath>
+    <ExpiryDate>2028-04-15T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+    <AgeGroup>Взрослые</AgeGroup>
+    <Prescription>По рецепту</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Прегабалин 75 мг</Name>
+    <Quantity>30</Quantity>
+    <Price>12500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Прегабалин 75 мг.jpg</ImagePath>
+    <ExpiryDate>2027-08-10T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+    <AgeGroup>Взрослые</AgeGroup>
+    <Prescription>По рецепту</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Карбамазепин 200 мг</Name>
+    <Quantity>50</Quantity>
+    <Price>5500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Карбамазепин 200 мг.jpg</ImagePath>
+    <ExpiryDate>2028-06-20T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+    <AgeGroup>Взрослые</AgeGroup>
+    <Prescription>По рецепту</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Вальпроевая кислота 300 мг</Name>
+    <Quantity>35</Quantity>
+    <Price>7500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Вальпроевая кислота 300 мг.jpg</ImagePath>
+    <ExpiryDate>2027-10-15T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+    <AgeGroup>Дети</AgeGroup>
+    <Prescription>По рецепту</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Ламотриджин 100 мг</Name>
+    <Quantity>40</Quantity>
+    <Price>9500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Ламотриджин 100 мг.jpg</ImagePath>
+    <ExpiryDate>2028-02-10T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+    <AgeGroup>Взрослые</AgeGroup>
+    <Prescription>По рецепту</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Фенобарбитал 100 мг</Name>
+    <Quantity>30</Quantity>
+    <Price>2500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Фенобарбитал 100 мг.png</ImagePath>
+    <ExpiryDate>2027-11-20T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+    <AgeGroup>Взрослые</AgeGroup>
+    <Prescription>По рецепту</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Диазепам 5 мг</Name>
+    <Quantity>20</Quantity>
+    <Price>3500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Диазепам 5 мг.jpg</ImagePath>
+    <ExpiryDate>2027-07-15T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+    <AgeGroup>Взрослые</AgeGroup>
+    <Prescription>По рецепту</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Феназепам 1 мг</Name>
+    <Quantity>20</Quantity>
+    <Price>4500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Феназепам 1 мг.png</ImagePath>
+    <ExpiryDate>2027-09-10T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+    <AgeGroup>Взрослые</AgeGroup>
+    <Prescription>По рецепту</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Амитриптилин 25 мг</Name>
+    <Quantity>45</Quantity>
+    <Price>3800.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Амитриптилин 25 мг.png</ImagePath>
+    <ExpiryDate>2028-05-05T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+    <AgeGroup>Взрослые</AgeGroup>
+    <Prescription>По рецепту</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Флуоксетин 20 мг</Name>
+    <Quantity>50</Quantity>
+    <Price>6500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Флуоксетин 20 мг.jpg</ImagePath>
+    <ExpiryDate>2027-08-20T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+    <AgeGroup>Взрослые</AgeGroup>
+    <Prescription>По рецепту</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Сертралин 50 мг</Name>
+    <Quantity>40</Quantity>
+    <Price>8500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Сертралин 50 мг.jpg</ImagePath>
+    <ExpiryDate>2028-12-15T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+    <AgeGroup>Взрослые</AgeGroup>
+    <Prescription>По рецепту</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Эсциталопрам 10 мг</Name>
+    <Quantity>35</Quantity>
+    <Price>9500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Эсциталопрам 10 мг.jpg</ImagePath>
+    <ExpiryDate>2028-03-10T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+    <AgeGroup>Взрослые</AgeGroup>
+    <Prescription>По рецепту</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Пароксетин 20 мг</Name>
+    <Quantity>27</Quantity>
+    <Price>7500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Пароксетин 20 мг.png</ImagePath>
+    <ExpiryDate>2027-06-20T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+    <AgeGroup>Взрослые</AgeGroup>
+    <Prescription>По рецепту</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Миртазапин 30 мг</Name>
+    <Quantity>25</Quantity>
+    <Price>8500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Миртазапин 30 мг.png</ImagePath>
+    <ExpiryDate>2028-11-15T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+    <AgeGroup>Взрослые</AgeGroup>
+    <Prescription>По рецепту</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Галоперидол 5 мг</Name>
+    <Quantity>20</Quantity>
+    <Price>3500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Галоперидол 5 мг.jpg</ImagePath>
+    <ExpiryDate>2027-04-10T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+    <AgeGroup>Взрослые</AgeGroup>
+    <Prescription>По рецепту</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Рисперидон 2 мг</Name>
+    <Quantity>30</Quantity>
+    <Price>6500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Рисперидон 2 мг.jpg</ImagePath>
+    <ExpiryDate>2028-09-05T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+    <AgeGroup>Взрослые</AgeGroup>
+    <Prescription>По рецепту</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Оланзапин 10 мг</Name>
+    <Quantity>25</Quantity>
+    <Price>12500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Оланзапин 10 мг.png</ImagePath>
+    <ExpiryDate>2028-01-20T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+    <AgeGroup>Взрослые</AgeGroup>
+    <Prescription>По рецепту</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Кветиапин 100 мг</Name>
+    <Quantity>35</Quantity>
+    <Price>8500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Кветиапин 100 мг.png</ImagePath>
+    <ExpiryDate>2027-07-15T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+    <AgeGroup>Взрослые</AgeGroup>
+    <Prescription>По рецепту</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Донепезил 10 мг</Name>
+    <Quantity>30</Quantity>
+    <Price>15000.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Донепезил 10 мг.jpg</ImagePath>
+    <ExpiryDate>2028-10-10T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+    <AgeGroup>Универсальный</AgeGroup>
+    <Prescription>По рецепту</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Мемантин 10 мг</Name>
+    <Quantity>25</Quantity>
+    <Price>12500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Мемантин 10 мг.png</ImagePath>
+    <ExpiryDate>2027-05-20T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+    <AgeGroup>Пожилые</AgeGroup>
+    <Prescription>По рецепту</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Церебролизин</Name>
+    <Quantity>20</Quantity>
+    <Price>25000.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Церебролизин.jpg</ImagePath>
+    <ExpiryDate>2027-08-15T00:00:00+10:00</ExpiryDate>
+    <Category>Ампулы</Category>
+    <AgeGroup>Пожилые</AgeGroup>
+    <Prescription>По рецепту</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Актовегин 200 мг</Name>
+    <Quantity>40</Quantity>
+    <Price>15000.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Актовегин 200 мг.jpg</ImagePath>
+    <ExpiryDate>2028-11-10T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+    <AgeGroup>Взрослые</AgeGroup>
+    <Prescription>Без рецепта</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Мексидол 125 мг</Name>
+    <Quantity>50</Quantity>
+    <Price>8500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Мексидол 125 мг.jpg</ImagePath>
+    <ExpiryDate>2028-03-05T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+    <AgeGroup>Взрослые</AgeGroup>
+    <Prescription>Без рецепта</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Цитофлавин</Name>
+    <Quantity>35</Quantity>
+    <Price>12000.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Цитофлавин.png</ImagePath>
+    <ExpiryDate>2027-09-20T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+    <AgeGroup>Взрослые</AgeGroup>
+    <Prescription>Без рецепта</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Кавинтон 5 мг</Name>
+    <Quantity>45</Quantity>
+    <Price>6500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Кавинтон 5 мг.png</ImagePath>
+    <ExpiryDate>2028-06-15T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+    <AgeGroup>Пожилые</AgeGroup>
+    <Prescription>По рецепту</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Сермион 10 мг</Name>
+    <Quantity>30</Quantity>
+    <Price>9500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Сермион 10 мг.jpg</ImagePath>
+    <ExpiryDate>2027-12-10T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+    <AgeGroup>Пожилые</AgeGroup>
+    <Prescription>По рецепту</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Трентал 400 мг</Name>
+    <Quantity>40</Quantity>
+    <Price>7500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Трентал 400 мгг.jpg</ImagePath>
+    <ExpiryDate>2028-04-20T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+    <AgeGroup>Взрослые</AgeGroup>
+    <Prescription>По рецепту</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Бетасерк 24 мг</Name>
+    <Quantity>32</Quantity>
+    <Price>12500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Бетасерк 24 мг.png</ImagePath>
+    <ExpiryDate>2027-08-15T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+    <AgeGroup>Взрослые</AgeGroup>
+    <Prescription>По рецепту</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Танакан 40 мг</Name>
+    <Quantity>30</Quantity>
+    <Price>15000.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Танакан 40 мг.png</ImagePath>
+    <ExpiryDate>2028-01-10T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+    <AgeGroup>Пожилые</AgeGroup>
+    <Prescription>Без рецепта</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Гинкго Билоба</Name>
+    <Quantity>45</Quantity>
+    <Price>8500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Гинкго Билоба.jpg</ImagePath>
+    <ExpiryDate>2028-07-05T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+    <AgeGroup>Пожилые</AgeGroup>
+    <Prescription>Без рецепта</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Билобил 40 мг</Name>
+    <Quantity>40</Quantity>
+    <Price>9500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Билобил 40 мг.jpg</ImagePath>
+    <ExpiryDate>2027-11-20T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+    <AgeGroup>Пожилые</AgeGroup>
+    <Prescription>Без рецепта</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Фезам</Name>
+    <Quantity>50</Quantity>
+    <Price>6500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Фезам.jpg</ImagePath>
+    <ExpiryDate>2028-03-15T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+    <AgeGroup>Взрослые</AgeGroup>
+    <Prescription>По рецепту</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Ноопепт 10 мг</Name>
+    <Quantity>35</Quantity>
+    <Price>15000.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Ноопепт 10 мг.jpeg</ImagePath>
+    <ExpiryDate>2027-09-10T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+    <AgeGroup>Взрослые</AgeGroup>
+    <Prescription>Без рецепта</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Семакс капли</Name>
+    <Quantity>20</Quantity>
+    <Price>18500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Семакс капли.png</ImagePath>
+    <ExpiryDate>2028-06-20T00:00:00+10:00</ExpiryDate>
+    <Category>Растворы</Category>
+    <AgeGroup>Взрослые</AgeGroup>
+    <Prescription>По рецепту</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Кортексин</Name>
+    <Quantity>15</Quantity>
+    <Price>25000.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Ксарелто 20 мг.jpg</ImagePath>
+    <ExpiryDate>2027-10-15T00:00:00+10:00</ExpiryDate>
+    <Category>Ампулы</Category>
+    <AgeGroup>Дети</AgeGroup>
+    <Prescription>По рецепту</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Пантогам 250 мг</Name>
+    <Quantity>40</Quantity>
+    <Price>6500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Пантогам 250 мг.png</ImagePath>
+    <ExpiryDate>2028-04-10T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+    <AgeGroup>Дети</AgeGroup>
+    <Prescription>По рецепту</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Фенибут 250 мг</Name>
+    <Quantity>35</Quantity>
+    <Price>7500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Фенибут 250 мг.png</ImagePath>
+    <ExpiryDate>2027-08-05T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+    <AgeGroup>Дети</AgeGroup>
+    <Prescription>По рецепту</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Тенотен детский</Name>
+    <Quantity>50</Quantity>
+    <Price>5500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Тенотен детский.png</ImagePath>
+    <ExpiryDate>2028-12-20T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+    <AgeGroup>Дети</AgeGroup>
+    <Prescription>Без рецепта</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Анаферон детский</Name>
+    <Quantity>60</Quantity>
+    <Price>4500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Анаферон детский.jpg</ImagePath>
+    <ExpiryDate>2026-06-10T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+    <AgeGroup>Детский (0-12)</AgeGroup>
+    <Prescription>Без рецепта</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Эргоферон</Name>
+    <Quantity>45</Quantity>
+    <Price>6500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Эргоферон.jpg</ImagePath>
+    <ExpiryDate>2027-09-10T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+    <AgeGroup>Дети</AgeGroup>
+    <Prescription>Без рецепта</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Генферон свечи</Name>
+    <Quantity>30</Quantity>
+    <Price>8500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Генферон свечи.jpeg</ImagePath>
+    <ExpiryDate>2028-03-20T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+    <AgeGroup>Дети</AgeGroup>
+    <Prescription>Без рецепта</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Виферон свечи</Name>
+    <Quantity>35</Quantity>
+    <Price>7500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Виферон свечи.jpg</ImagePath>
+    <ExpiryDate>2027-07-15T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+    <AgeGroup>Дети</AgeGroup>
+    <Prescription>Без рецепта</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Кипферон свечи</Name>
+    <Quantity>25</Quantity>
+    <Price>9500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Кипферон свечи.jpg</ImagePath>
+    <ExpiryDate>2028-11-10T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+    <AgeGroup>Дети</AgeGroup>
+    <Prescription>Без рецепта</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Гриппферон капли</Name>
+    <Quantity>30</Quantity>
+    <Price>8500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Гриппферон капли.jpg</ImagePath>
+    <ExpiryDate>2027-06-05T00:00:00+10:00</ExpiryDate>
+    <Category>Растворы</Category>
+    <AgeGroup>Дети</AgeGroup>
+    <Prescription>Без рецепта</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Деринат капли</Name>
+    <Quantity>25</Quantity>
+    <Price>7500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Деринат капли.jpeg</ImagePath>
+    <ExpiryDate>2028-10-20T00:00:00+10:00</ExpiryDate>
+    <Category>Растворы</Category>
+    <AgeGroup>Дети</AgeGroup>
+    <Prescription>Без рецепта</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>ИРС-19 спрей</Name>
+    <Quantity>20</Quantity>
+    <Price>12500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Инсулин Новорапид.jpg</ImagePath>
+    <ExpiryDate>2028-02-15T00:00:00+10:00</ExpiryDate>
+    <Category>Растворы</Category>
+    <AgeGroup>Дети</AgeGroup>
+    <Prescription>Без рецепта</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Полидекса спрей</Name>
+    <Quantity>14</Quantity>
+    <Price>9500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Полидекса спрей.jpeg</ImagePath>
+    <ExpiryDate>2027-08-10T00:00:00+10:00</ExpiryDate>
+    <Category>Растворы</Category>
+    <AgeGroup>Дети</AgeGroup>
+    <Prescription>По рецепту</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Изофра спрей</Name>
+    <Quantity>20</Quantity>
+    <Price>8500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Изофра спрей.png</ImagePath>
+    <ExpiryDate>2027-12-05T00:00:00+10:00</ExpiryDate>
+    <Category>Растворы</Category>
+    <AgeGroup>Дети</AgeGroup>
+    <Prescription>По рецепту</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Ринофлуимуцил спрей</Name>
+    <Quantity>25</Quantity>
+    <Price>7500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Ринофлуимуцил спрей.jpg</ImagePath>
+    <ExpiryDate>2028-04-20T00:00:00+10:00</ExpiryDate>
+    <Category>Растворы</Category>
+    <AgeGroup>Дети</AgeGroup>
+    <Prescription>Без рецепта</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Синупрет</Name>
+    <Quantity>40</Quantity>
+    <Price>8500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Синупрет.png</ImagePath>
+    <ExpiryDate>2027-09-15T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+    <AgeGroup>Взрослые</AgeGroup>
+    <Prescription>Без рецепта</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Тонзилгон</Name>
+    <Quantity>35</Quantity>
+    <Price>6500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Тонзилгон.jpg</ImagePath>
+    <ExpiryDate>2028-03-10T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+    <AgeGroup>Дети</AgeGroup>
+    <Prescription>Без рецепта</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Стрепсилс</Name>
+    <Quantity>50</Quantity>
+    <Price>4500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Стрепсилс.jpg</ImagePath>
+    <ExpiryDate>2028-07-20T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+    <AgeGroup>Взрослые</AgeGroup>
+    <Prescription>Без рецепта</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Фарингосепт</Name>
+    <Quantity>45</Quantity>
+    <Price>3500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Фарингосепт.jpg</ImagePath>
+    <ExpiryDate>2027-11-15T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+    <AgeGroup>Взрослые</AgeGroup>
+    <Prescription>Без рецепта</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Лизобакт</Name>
+    <Quantity>40</Quantity>
+    <Price>5500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Лизобакт.jpg</ImagePath>
+    <ExpiryDate>2028-05-10T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+    <AgeGroup>Взрослые</AgeGroup>
+    <Prescription>Без рецепта</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Гексорал спрей</Name>
+    <Quantity>30</Quantity>
+    <Price>7500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Гексорал спрей.jpeg</ImagePath>
+    <ExpiryDate>2027-09-05T00:00:00+10:00</ExpiryDate>
+    <Category>Растворы</Category>
+    <AgeGroup>Взрослые</AgeGroup>
+    <Prescription>Без рецепта</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Тантум Верде спрей</Name>
+    <Quantity>25</Quantity>
+    <Price>8500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Тантум Верде спрей.jpg</ImagePath>
+    <ExpiryDate>2028-01-20T00:00:00+10:00</ExpiryDate>
+    <Category>Растворы</Category>
+    <AgeGroup>Дети</AgeGroup>
+    <Prescription>Без рецепта</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Ингалипт спрей</Name>
+    <Quantity>35</Quantity>
+    <Price>4500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Ингалипт спрей.jpg</ImagePath>
+    <ExpiryDate>2027-06-15T00:00:00+10:00</ExpiryDate>
+    <Category>Растворы</Category>
+    <AgeGroup>Взрослые</AgeGroup>
+    <Prescription>Без рецепта</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Каметон спрей</Name>
+    <Quantity>39</Quantity>
+    <Price>3500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Каметон спрей.png</ImagePath>
+    <ExpiryDate>2028-10-10T00:00:00+10:00</ExpiryDate>
+    <Category>Растворы</Category>
+    <AgeGroup>Взрослые</AgeGroup>
+    <Prescription>Без рецепта</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Пропосол спрей</Name>
+    <Quantity>30</Quantity>
+    <Price>5500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Пропосол спрей.png</ImagePath>
+    <ExpiryDate>2027-03-20T00:00:00+10:00</ExpiryDate>
+    <Category>Растворы</Category>
+    <AgeGroup>Взрослые</AgeGroup>
+    <Prescription>Без рецепта</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Мукалтин</Name>
+    <Quantity>80</Quantity>
+    <Price>1800.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Мукалтин.jpg</ImagePath>
+    <ExpiryDate>2028-08-15T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+    <AgeGroup>Взрослые</AgeGroup>
+    <Prescription>Без рецепта</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>АЦЦ 200 мг</Name>
+    <Quantity>45</Quantity>
+    <Price>8500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\АЦЦ 200 мг.jpeg</ImagePath>
+    <ExpiryDate>2027-12-10T00:00:00+10:00</ExpiryDate>
+    <Category>Таблетки</Category>
+    <AgeGroup>Взрослые</AgeGroup>
+    <Prescription>Без рецепта</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Лазолван сироп</Name>
+    <Quantity>35</Quantity>
+    <Price>7500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Лазолван сироп.jpg</ImagePath>
+    <ExpiryDate>2026-06-04T00:00:00+10:00</ExpiryDate>
+    <Category>Сиропы</Category>
+    <AgeGroup>Детский (0-12)</AgeGroup>
+    <Prescription>Без рецепта</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Геделикс сироп</Name>
+    <Quantity>30</Quantity>
+    <Price>6500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Геделикс сироп.jpg</ImagePath>
+    <ExpiryDate>2027-09-20T00:00:00+10:00</ExpiryDate>
+    <Category>Сиропы</Category>
+    <AgeGroup>Дети</AgeGroup>
+    <Prescription>Без рецепта</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Проспан сироп</Name>
+    <Quantity>25</Quantity>
+    <Price>8500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Проспан сироп.jpg</ImagePath>
+    <ExpiryDate>2028-01-15T00:00:00+10:00</ExpiryDate>
+    <Category>Сиропы</Category>
+    <AgeGroup>Дети</AgeGroup>
+    <Prescription>Без рецепта</Prescription>
+  </Inventory>
+  <Inventory>
+    <Name>Доктор Мом сироп</Name>
+    <Quantity>40</Quantity>
+    <Price>5500.00</Price>
+    <ImagePath>C:\Users\moxin\source\repos\Experience\x64\Debug\Images\Доктор Мом сироп.png</ImagePath>
+    <ExpiryDate>2027-06-10T00:00:00+10:00</ExpiryDate>
+    <Category>Сиропы</Category>
+    <AgeGroup>Детский (0-12)</AgeGroup>
+    <Prescription>Без рецепта</Prescription>
+  </Inventory>
+</DocumentElement>

@@ -1,0 +1,38 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <History>
+    <DateTime>2026-05-19T22:03:58.5566999+10:00</DateTime>
+    <Action>В корзину</Action>
+    <Medicine>Аллопуринол 100 мг</Medicine>
+    <Quantity>4</Quantity>
+    <Amount>18000.00</Amount>
+  </History>
+  <History>
+    <DateTime>2026-05-19T22:04:03.8482584+10:00</DateTime>
+    <Action>В корзину</Action>
+    <Medicine>Бетасерк 24 мг</Medicine>
+    <Quantity>3</Quantity>
+    <Amount>37500.00</Amount>
+  </History>
+  <History>
+    <DateTime>2026-05-19T22:04:12.9955315+10:00</DateTime>
+    <Action>В корзину</Action>
+    <Medicine>Пароксетин 20 мг</Medicine>
+    <Quantity>3</Quantity>
+    <Amount>22500.00</Amount>
+  </History>
+  <History>
+    <DateTime>2026-05-19T22:04:28.1107+10:00</DateTime>
+    <Action>В корзину</Action>
+    <Medicine>Парацетамол 500 мг</Medicine>
+    <Quantity>15</Quantity>
+    <Amount>52500</Amount>
+  </History>
+  <History>
+    <DateTime>2026-05-19T22:04:34.7642079+10:00</DateTime>
+    <Action>В корзину</Action>
+    <Medicine>Полидекса спрей</Medicine>
+    <Quantity>1</Quantity>
+    <Amount>9500.00</Amount>
+  </History>
+</DocumentElement>
